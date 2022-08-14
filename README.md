@@ -1,6 +1,5 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=3FF73D&width=435&lines=Hola+soy+Brakions;Actualmente+estoy+aprendiendo+estas+tecnolog%C3%ADas)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=3FF73D&width=435&lines=Hi%2C+I'm+Brakions.;I+am+currently+learning+these+technologies)](https://git.io/typing-svg)
 
