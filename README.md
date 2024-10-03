@@ -1,4 +1,7 @@
-✨Hola soy Brandon, hace no mucho culminé un Bootcamp sobre Data Science y busco abrirme un camino en el mundo IT, me considero una persona muy disciplinada y comprometida con lo que hago, me gusta investigar y formar una opinión sesgada a mis ideales manteniendo el respeto por todo y todos, disfruto del interés de estudiar otras ciencias porque siento que me ayudan a entender cómo se formulan y resuelven diferentes problemas en diferentes campos.
+Graduado de un bootcamp en Data Science, tengo conocimientos en programación y utilizo Python para el análisis de datos. Además, comprendo los fundamentos matemáticos aplicados a la ciencia de datos y se cómo organizar, administrar y explorar grandes conjuntos de datos.
+
+Estoy familiarizado con la visualización y generación de informes, así como con la comunicación efectiva de historias persuasivas. tengo un interés en estudiar otras ciencias para comprender cómo se formulan y resuelven problemas en diversos campos.
+
 
 
 🔽 ENFJ-A (MBTI)
